@@ -10,7 +10,7 @@ To get your Railway API token, log into your Railway dashboard and navigate to y
 
 ## Running the Script
 
-The simplest way to run the script is to execute python railway_checker.py after setting your environment variables. If you prefer to specify the deployment URL directly, you can pass it as a command line argument like `python3 railway_checker.py https://your-app.railway.app`.
+The simplest way to run the script is to execute `python3 railway_checker.py` after setting your environment variables. If you prefer to specify the deployment URL directly, you can pass it as a command line argument like `python3 railway_checker.py https://your-app.railway.app`.
 
 ## Author
 Michael Mendy (c) 2025.

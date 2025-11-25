@@ -4,8 +4,7 @@ This script monitors the health and status of your Railway deployment instances.
 
 ## Getting Started
 
-Before running the script, you need to install the requests library. You can do this by running pip install requests in your terminal.
-The script requires certain environment variables to function properly. You'll need to set RAILWAY_TOKEN with your Railway API token, `RAILWAY_PROJECT_ID` with your project identifier, and optionally `RAILWAY_DEPLOYMENT_URL` with the URL of your deployed application.
+Before running the script, you need to install the requests library. You can do this by running pip install requests in your terminal. The script requires certain environment variables to function properly. You'll need to set `RAILWAY_TOKEN` with your Railway API token, `RAILWAY_PROJECT_ID` with your project identifier, and optionally `RAILWAY_DEPLOYMENT_URL` with the URL of your deployed application.
 
 To get your Railway API token, log into your Railway dashboard and navigate to your account settings. You can generate a new token from the API tokens section. Your project ID can be found in the URL when viewing your project in the Railway dashboard, or you can retrieve it via the Railway CLI.
 
